@@ -1,18 +1,27 @@
-<h1 align="center">Hey 👋, I'm Pavan Thadari</h1>
+<h1 align="center">Hey there 👋 I'm Pavan Thadari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&lines=AI+Developer+%7C+Cloud+Practitioner+%7C+SDLC+Automator;Passionate+about+GenAI%2C+MAS%2C+NLP%2C+and+LLMs;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&multiline=true&width=440&lines=AI+Engineer+in+the+streets%2C+Prompt+Engineer+in+the+sheets;Breaking+SDLCs+since+2024+%F0%9F%92%A1;Building+projects+faster+than+you+can+say+TFI!" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me (The Professional Part... kinda)
 
-- 🎓 MS in Computer Science @ Florida Atlantic University (FAU)
-- 🤖 Working on AI + Software Automation + Local LLMs (Ollama)
-- ☁️ AWS Cloud Projects | Flask Web Apps | Multi-Agent Systems
-- 🛠️ Tools: Python, GitHub, Streamlit, Flask, XLMiner, Jupyter, VS Code
-- 💬 Ask me about Prompt Engineering, SDLC Automation, or Cloud Apps
+- 🎓 Master's Student @ FAU | Computer Science
+- 🤖 Into Generative AI, LLMs, SDLC Automation, MAS (not Mass 😅)
+- ☁️ Loves AWS, Python, Flask, and breaking things on EC2 at 3 AM
+- 📊 Project Hoarder: If it sounds cool, it's already in my repo
+
+---
+
+### 😎 Ask Me About
+
+- Prompt Engineering 🔮
+- Ollama & Local LLM Magic ✨
+- Why *TFI Fridays* > Netflix Fridays 💥
+- Meme engineering 🫠
+- The deepest question of life: “Did I push to the right repo?” 🤯
 
 ---
 
@@ -25,28 +34,30 @@
 
 ---
 
-### 🧠 Featured Projects
+### 🧠 Top Projects I Brag About
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [TEAM_Z_FINAL_PROJECT](https://github.com/pavanthadari/TEAM_Z_FINAL_PROJECT) | AutoSDLC GenAI system that generates requirements, UMLs, and prototypes with minimal human input. |
-| 🔗 [Hands-On Prompting for Requirements](https://github.com/pavanthadari/TEAM-Z_Assignment-2-Hands-On-Prompting-Engineering-for-Requirement-Analysis-) | Prompt engineering project to automate requirement analysis using LLMs and pipelines. |
-| 🔗 [Keyword Extraction WebApp](https://github.com/pavanthadari/Keyword_Extraction_WebApp) | A Streamlit app to extract keywords from text using RAKE and TextRank. |
-| 🔗 [COVID-19 Detection](https://github.com/pavanthadari/Coronavirus-disease-Covid19-Detection) | ML-based system for classifying COVID-19 infections using patient symptoms. |
-| 🔗 [Customer Attrition Prediction](https://github.com/pavanthadari/Customers-Attrition-Prediction-project-) | Predictive model to identify potential customer churn for banks. |
-| 🔗 [Netflix Recommender System](https://github.com/pavanthadari/Final-year-project-Netflix-Recommendation-System) | A collaborative filtering-based recommender system for Netflix titles. |
-| 🔗 [Bank Management System](https://github.com/pavanthadari/Bankproject) | GUI-based banking system with customer login, deposit, and withdrawal functionality. |
-| 🔗 [Train Ticket Booking System](https://github.com/pavanthadari/traintick) | A simple train reservation system project built using Python and Tkinter. |
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/pavanthadari)
-- 📩 Email: pthadari2024@fau.edu
-- 🌐 Portfolio: Coming Soon!
+| 📁 Project | 💬 Description |
+|-----------|----------------|
+| 🚀 [TEAM_Z_FINAL_PROJECT](https://github.com/pavanthadari/TEAM_Z_FINAL_PROJECT) | Automates 90% of the SDLC. Humans only click buttons. |
+| 🧠 [Hands-On Prompting](https://github.com/pavanthadari/TEAM-Z_Assignment-2-Hands-On-Prompting-Engineering-for-Requirement-Analysis-) | Teaching AI how to *understand requirements* better than clients do. |
+| 🕵️ [Keyword Extractor](https://github.com/pavanthadari/Keyword_Extraction_WebApp) | Extracts the important stuff. Like your brain but faster. |
+| 🦠 [COVID Detector](https://github.com/pavanthadari/Coronavirus-disease-Covid19-Detection) | ML model for predicting COVID, because why not. |
+| 🏦 [Attrition Predictor](https://github.com/pavanthadari/Customers-Attrition-Prediction-project-) | Predicts when customers ghost your bank. |
+| 🍿 [Netflix Recommender](https://github.com/pavanthadari/Final-year-project-Netflix-Recommendation-System) | Recommends Netflix shows when you can't decide even after 2 hours. |
+| 🧾 [Bank Project](https://github.com/pavanthadari/Bankproject) | Simulates bank systems, minus the long queues and bad coffee. |
+| 🚂 [Train Booking](https://github.com/pavanthadari/traintick) | A Python train ticket system. IRCTC but no captcha hell. |
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanthadari.pavanthadari)  
-🧠 _“Automating the SDLC, one prompt at a time!”_
+### 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pavanthadari)
+- 📧 Email: pthadari2024@fau.edu
+- 🕸️ Portfolio: Loading... like your YouTube ads
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanthadari.pavanthadari)
+
+---
+
+> *“Write code like nobody's watching, and commit like everyone will judge.”*  
+> *Also, TFI >>> everything else. Period.* 🎥🔥
