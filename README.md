@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me (The Professional Part... kinda)
 
 - 🎓 Master's Student @ FAU | Computer Science
-- 🤖 Into Generative AI, LLMs, SDLC Automation, MAS (not Mass 😅)
 - ☁️ Loves AWS, Python, Flask, and breaking things on EC2 at 3 AM
 - 📊 Project Hoarder: If it sounds cool, it's already in my repo
 
@@ -17,8 +16,6 @@
 
 ### 😎 Ask Me About
 
-- Prompt Engineering 🔮
-- Ollama & Local LLM Magic ✨
 - Why *TFI Fridays* > Netflix Fridays 💥
 - Meme engineering 🫠
 - The deepest question of life: “Did I push to the right repo?” 🤯
