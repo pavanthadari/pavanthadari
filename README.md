@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Pavan Thadari</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&multiline=true&width=440&lines=AI+Engineer+in+the+streets%2C+Prompt+Engineer+in+the+sheets;Breaking+SDLCs+since+2024+%F0%9F%92%A1;Building+projects+faster+than+you+can+say+TFI!" />
-</p>
+
 
 ---
 
